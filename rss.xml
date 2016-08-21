@@ -4,7 +4,7 @@
         <description><![CDATA[Photography]]></description>
         <link>https://thegrid.ai/adalina/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 21:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 21:21:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/adalina/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +40,6 @@
             <link>https://thegrid.ai/adalina/edc4d570-c784-47fa-ba31-e3b47fde75d7/index.html</link>
             <guid isPermaLink="false">edc4d570-c784-47fa-ba31-e3b47fde75d7</guid>
             <pubDate>Sat, 20 Aug 2016 21:17:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9995c53-7855-4dd8-b3c7-8509db0a44f7.jpg" alt="Germany">]]></description>
-            <link>https://thegrid.ai/adalina/566901b0-df4b-4d1d-a40f-811c708b59a6/index.html</link>
-            <guid isPermaLink="false">566901b0-df4b-4d1d-a40f-811c708b59a6</guid>
-            <pubDate>Sat, 20 Aug 2016 21:13:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
