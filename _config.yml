@@ -1,3 +1,4 @@
+layout_spectrum: 0.5743441993836313
 typography_spectrum: 0.4237398109398782
 color:
   brandStrength: 0.1284147056285292
@@ -5,16 +6,9 @@ color:
   saturation: 0.4378631073050201
   rhythmicContrast: 0.5124915544874966
   brandColors:
-    - '#703030'
-    - '#2F343B'
-    - '#7E827A'
-    - '#E3CDA4'
-    - '#C77966'
-layout_spectrum: 0.5743441993836313
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: Adalina
-navigation:
-  - name: Portfolio
-    id: 566901b0-df4b-4d1d-a40f-811c708b59a6
-    type: content
-title: Photography
-description: Adalina
