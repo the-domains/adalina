@@ -12,5 +12,9 @@ color:
     - '#C77966'
 layout_spectrum: 0.5743441993836313
 name: Adalina
+navigation:
+  - name: Portfolio
+    id: 566901b0-df4b-4d1d-a40f-811c708b59a6
+    type: content
 title: Photography
 description: Adalina
